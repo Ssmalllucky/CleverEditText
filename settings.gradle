@@ -1,2 +1,3 @@
+include ':clearedittext'
 include ':app'
 rootProject.name = "CleverEditText"
