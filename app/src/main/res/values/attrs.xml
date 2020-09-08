@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="CleverEditText">
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="reference" />
+    </declare-styleable>
+</resources>
