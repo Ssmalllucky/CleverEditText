@@ -1,4 +1,4 @@
-package com.cleveredittext.main;
+package com.ssmalllucky.clearedittext;
 
 import android.content.Context;
 import android.content.res.TypedArray;
